@@ -1,1 +1,2 @@
-"# lecture3" 
+CS50Web - Django 
+Lecture3 code
